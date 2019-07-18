@@ -1,0 +1,12 @@
+/target/**
+project/target
+project/project
+
+/**/.idea
+/app/.idea_modules
+
+/**/*.iml
+
+.ensime
+.ensime_cache
+.ctags_srcs
